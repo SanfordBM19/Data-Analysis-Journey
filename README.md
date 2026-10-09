@@ -21,9 +21,6 @@ I’m using SQL and Excel to analyze the data, compare default rates, and presen
 * **Microsoft Excel:** Reviewing analysis results and creating charts to compare default rates and identify patterns.
 
 
-## Visualizations
-
-![Loan Default Analysis](Excel_Personal_Loan_Anylysis_Dashboard.png)
 
 
 ## Datasets
@@ -45,12 +42,7 @@ I use these datasets together to explore how borrower characteristics and loan d
 ## Visualizations
 
 I will add Excel charts to show the results of my analysis, including comparisons of default rates across borrower and loan categories.
-
-*Example: Default rates by credit score range.*
-
-![Loan Default Analysis Chart](images/loan-default-chart.png)
-
-*Replace this example image path with the actual location and filename of your chart once you upload it to the repository.*
+![Loan Default Analysis](Excel_Personal_Loan_Anylysis_Dashboard.png)
 
 ## Key Findings
 
