@@ -22,7 +22,9 @@ I’m using SQL and Excel to analyze the data, compare default rates, and presen
 
 * ## Visualizations
 
-![Loan Default Analysis](images/loan-default-chart.png)
+## Visualizations
+
+![Loan Default Analysis](Excel_Person_Loan_Anaylsis_Dashboard.png)
 
 ## Datasets
 
