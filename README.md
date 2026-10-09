@@ -20,9 +20,6 @@ I’m using SQL and Excel to analyze the data, compare default rates, and presen
 * **MySQL:** Querying and analyzing loan data, joining tables, grouping records, and calculating default rates.
 * **Microsoft Excel:** Reviewing analysis results and creating charts to compare default rates and identify patterns.
 
-* ## Visualizations
-
-## Visualizations
 
 ## Visualizations
 
